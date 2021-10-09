@@ -1,0 +1,38 @@
+{
+  "name": "kvnn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "ascii-table": "^0.0.9",
+    "asynckit": "^0.4.0",
+    "axios": "^0.22.0",
+    "canvacord": "^5.2.3",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-jokes": "^4.0.0",
+    "discord-music-player": "^8.1.0",
+    "discord.js": "^13.1.0",
+    "event-target-shim": "^5.0.1",
+    "leoapi.xyz": "^1.1.5",
+    "mime-db": "^1.50.0",
+    "mime-types": "^2.1.33",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.5",
+    "prism-media": "^1.3.2",
+    "reconlx": "^2.4.3",
+    "setimmediate": "^1.0.5",
+    "tr46": "^0.0.3",
+    "tweetnacl": "^1.0.3",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^7.5.5",
+    "yt-lirik": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
